@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="left_margin">5dp</string>
+    <string name="right_margin">5dp</string>
+    <string name="e">e</string>
+    <string name="deg">deg</string>
+    <string name="sin">sin</string>
+    <string name="pi">π</string>
+
+</resources>

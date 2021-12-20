@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="button_style">
+        <item name="android:textSize">@dimen/text_size_20</item>
+        <item name="android:textStyle">bold</item>
+         <item name="android:background">@drawable/circle</item>
+        <item name="android:layout_marginLeft">@dimen/left_margin</item>
+        <item name="android:layout_marginRight">@dimen/right_margin</item>
+    </style>
+
+    <style name="bottom_button_style">
+        <item name="android:textSize">@dimen/text_size_20</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/rectangle</item>
+        <item name="android:layout_marginLeft">@dimen/left_margin</item>
+        <item name="android:layout_marginRight">@dimen/right_margin</item>
+        <item name="android:padding">15dp</item>
+    </style>
+
+    <style name="bottom_button_style2">
+        <item name="android:textSize">@dimen/text_size_20</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/rectangle</item>
+        <item name="android:layout_marginLeft">12dp</item>
+        <item name="android:layout_marginRight">2dp</item>
+        <item name="android:padding">15dp</item>
+    </style>
+
+
+    <style name="linear_layout_style">
+        <item name="android:layout_marginLeft">@dimen/left_margin</item>
+        <item name="android:layout_marginRight">@dimen/right_margin</item>
+        <item name="android:layout_marginTop">@dimen/top_margin</item>
+    </style>
+
+</resources>
